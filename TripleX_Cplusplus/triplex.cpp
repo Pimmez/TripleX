@@ -1,7 +1,7 @@
 #include <iostream> 
 
 /// <summary>
-/// TripleX Small Game to learn C++
+/// TripleX Small Game to learn C++ Test TEST T E S T
 /// </summary>
 /// <returns></returns>
 int main()
