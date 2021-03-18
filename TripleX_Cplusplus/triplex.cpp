@@ -1,19 +1,16 @@
 #include <iostream> 
 
 /// <summary>
-/// TripleX Small Game to learn C++ Test TEST T E S T
+/// TripleX Small Game to learn C++ || cl main.cpp /EHsc <- Removes Unnecessary Warnings
 /// </summary>
-/// <returns></returns>
 int main()
 {
-	//print welcome messages to the terminal
-	std::cout << "In the medieval times, there was one lockpicker who stood out the most.";
-	std::cout << std::endl;
-	std::cout << "going by the name of locki. He entered every dungeon in search of chests to be openend.";
-	std::cout << std::endl;
-	std::cout << "You need to enter the correct codes to continue...";
+	//print welcome messages to the terminal :: Statements
+	std::cout << "In the medieval times, there was one lockpicker who stood out the most." << std::endl;
+	std::cout << "going by the name of locki. He entered every dungeon in search of chests to be openend." << std::endl;
+	std::cout << "You need to enter the correct codes to continue..." << std::endl;
 	
-	//Declare 3 number code
+	//Declare 3 number code :: DECLARATION STATEMENTS
 	const int number0 = 4;
 	const int number1 = 3;
 	const int number2 = 2;
